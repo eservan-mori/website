@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "80061cc1"
+  },
+  "about.qmd": {
+    "about.html": "80f5ab20"
+  },
+  "contact.qmd": {
+    "contact.html": "0614d11b"
+  },
+  "cv.qmd": {
+    "cv.html": "4b385682"
+  },
+  "projects.qmd": {
+    "projects.html": "f2c0340a"
+  },
+  "publications.qmd": {
+    "publications.html": "7b9b5d6c"
+  },
+  "teaching.qmd": {
+    "teaching.html": "334a2524"
+  },
+  "reserach/scientific publications.qmd": {
+    "scientific publications.html": "6b113493"
+  },
+  "research/scientific publications.qmd": {
+    "scientific publications.html": "87730d94"
+  },
+  "research/scientific_publications.qmd": {
+    "scientific_publications.html": "d4eb862b"
+  },
+  "research/dissemination.qmd": {
+    "dissemination.html": "4f40ef4b"
+  },
+  "research/grants.qmd": {
+    "grants.html": "bf0015f3"
+  },
+  "resources.qmd": {
+    "resources.html": "4202d968"
+  }
+}

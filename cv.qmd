@@ -1,0 +1,7 @@
+---
+title: "Curriculum Vitae"
+toc: false
+page-layout: full
+---
+[Download CV in Spanish](files/CV_Spa_2026.pdf)
+---

@@ -1,0 +1,18 @@
+---
+title: "Research projects"
+---
+
+## Current projects
+
+### Financial protection in Mexico
+
+This project examines the evolution of catastrophic health expenditure, out-of-pocket spending, and effective access to health care in Mexico’s fragmented health system.
+
+### Social protection in health
+
+This line of work analyses how health insurance arrangements, public financing, and provider availability shape protection against financial hardship.
+
+### Small-area estimation and forecasting
+
+This project applies small-area estimation and forecasting methods to analyse municipal-level variation in financial protection, effective coverage, and labour precariousness.
+---

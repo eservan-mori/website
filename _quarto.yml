@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - files/cv-es.pdf
+
+website:
+  title: "Edson Serván-Mori"
+
+  navbar:
+    left:
+      - text: About
+        menu:
+          - href: index.qmd
+            text: Bio
+          - href: cv.qmd
+            text: CV
+          - href: contact.qmd
+            text: Contact
+
+      - text: Research
+        menu:
+          - href: research/scientific_publications.qmd
+            text: Scientific publications
+          - href: research/dissemination.qmd
+            text: Dissemination
+          - href: research/grants.qmd
+            text: Grants
+
+      - href: teaching.qmd
+        text: Teaching
+
+      - href: resources.qmd
+        text: Resources
+
+    right:
+      - icon: envelope
+        href: mailto:eservan@insp.mx
+      - icon: google
+        href: https://scholar.google.com/
+      - icon: github
+        href: https://github.com/
+
+  page-footer:
+    left: "© 2026 Edson Serván-Mori"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3

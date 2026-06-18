@@ -1,0 +1,65 @@
+
+/* Slightly larger homepage typography */
+
+body {
+  font-size: 19px;
+  line-height: 2;
+}
+
+/* Name */
+.about-entity h1 {
+  font-size: 2.25rem;
+  line-height: 1.15;
+}
+
+/* Subtitle under name */
+.about-entity .subtitle {
+  font-size: 1.15rem;
+  line-height: 1.4;
+}
+
+/* Links below photo */
+.about-link {
+  font-size: 1.02rem;
+  margin-bottom: 0.35rem;
+}
+
+/* Main profile text */
+.about-contents p {
+  font-size: 20.5px;
+  line-height: 2;
+  margin-bottom: 1.15rem;
+}
+
+/* Section headings */
+.about-contents h2 {
+  font-size: 1.75rem;
+}
+
+/* Research interests */
+.about-contents li {
+  font-size: 19.2px;
+  line-height: 1.7;
+}
+
+/* Remove excessive top whitespace */
+main.content {
+  padding-top: 1.5rem;
+}
+
+/* Larger and bold homepage title */
+
+.about-entity h1,
+h1.title {
+  font-size: 2.8rem !important;
+  font-weight: 800 !important;
+  line-height: 1.1;
+}
+
+/* Navbar site title: extra bold and larger */
+
+.navbar-title {
+  font-size: 3.7rem !important;
+  font-weight: 900 !important;
+  letter-spacing: 0.01em;
+}
